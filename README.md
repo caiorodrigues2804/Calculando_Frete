@@ -1,6 +1,6 @@
 ## Calculando Frete 
 
-### Calculando frete com PHP, XML e HTML 
+### Calculando o valor do frete usando PHP, XML e HTML e Correios
 
 <img src="Gravar_2022_11_16_17_46_04_242.gif">
 
